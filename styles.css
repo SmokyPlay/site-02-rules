@@ -91,17 +91,17 @@ a {
 .brand {
   display: inline-flex;
   align-items: center;
-  gap: 14px;
-  margin: 0 0 38px;
+  gap: 18px;
+  margin: 0 0 44px;
   color: var(--purple);
-  font-size: clamp(1rem, 2vw, 1.25rem);
+  font-size: clamp(1.45rem, 3.2vw, 2.15rem);
   font-weight: 900;
-  letter-spacing: 0.08em;
+  letter-spacing: 0.06em;
 }
 
 .brand::before,
 .brand::after {
-  width: 28px;
+  width: 42px;
   height: 2px;
   background: currentColor;
   content: "";
