@@ -15,6 +15,7 @@
   --scientist: #fdfd7b;
   --guard: #bebebe;
   --mtf: #0193fa;
+  --foundation: #72b8ff;
   --chaos: #20a83d;
   --content: 1060px;
 }
@@ -307,6 +308,7 @@ h1 {
 .role--scientist { color: var(--scientist); }
 .role--guard { color: var(--guard); }
 .role--mtf { color: var(--mtf); }
+.role--foundation { color: var(--foundation); }
 .role--chaos { color: var(--chaos); }
 
 .callout,
